@@ -1,4 +1,4 @@
-name: Binary executable builds
+name: Build and Release
 
 on:
   push:
